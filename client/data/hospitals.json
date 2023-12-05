@@ -1,0 +1,45 @@
+{
+  "hospitals": [
+    {
+      "name": "RSPAL dr RAMELAN SURABAYA",
+      "src": "./rsial.jpg",
+      "addres": " Jl. Gadung No.1, Jagir, Kec. Wonokromo, Surabaya, Jawa Timur 60244",
+      "position": {
+        "lat": -7.308447375988122,
+        "lng": 112.73920476436616
+      }
+    },
+    {
+      "name": "Rumah Sakit Islam Surabaya",
+      "src": "./rsi.jpg",
+      "addres": "Jl. Achmad Yani No.2-4, Wonokromo, Kec. Wonokromo, Surabaya, Jawa Timur 60243",
+      "position": {
+        "lat": -7.306382471530816,
+        "lng": 112.73483812808992
+      }
+    }
+  ]
+}
+//   "hospitals": [
+//     {
+//       "name": "RSPAL dr RAMELAN SURABAYA",
+//       "src": "./images/rsi.jpg",
+//       "addres": " Jl. Gadung No.1, Jagir, Kec. Wonokromo, Surabaya, Jawa Timur 60244",
+//       "position": {
+//         "lat": -7.308447375988122,
+//         "lng": 112.73920476436616
+//       },
+//       "id": 11
+//     },
+//     {
+//       "name": "Rumah Sakit Islam Surabaya",
+//       "src": "./images/rsi.jpg",
+//       "addres": "Jl. Achmad Yani No.2-4, Wonokromo, Kec. Wonokromo, Surabaya, Jawa Timur 60243",
+//       "position": {
+//         "lat": -7.306382471530816,
+//         "lng": 112.73483812808992
+//       },
+//       "id": 12
+//     }
+//   ]
+// }

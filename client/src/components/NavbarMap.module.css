@@ -1,0 +1,8 @@
+.navbar {
+  position: absolute;
+  z-index: 1000;
+}
+
+.icon {
+  margin-top: 60px;
+}
